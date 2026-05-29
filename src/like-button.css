@@ -5,14 +5,14 @@
   padding: 10px 16px;
   border-radius: 50px;
   border: none;
-  background: #e91e63;
+  background: #4a1ee9;
   cursor: pointer;
   color: #fff;
   transition: transform 0.15s ease-in-out;
 }
 
 .like:focus {
-  outline: 2px solid #e91e63;
+  outline: 2px solid #4a1ee9;
   outline-offset: 2px;
 }
 
